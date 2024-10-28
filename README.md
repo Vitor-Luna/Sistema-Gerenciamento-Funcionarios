@@ -9,7 +9,7 @@ Bem-vindo ao sistema de gerenciamento de funcionários, que permite cadastrar, c
 - **Remover Funcionário**: Remova um funcionário pelo ID.
 
 ## Código
-Aqui está uma visão geral do código principal. Para ver o código completo, acesse o arquivo [main.py]((https://github.com/Vitor-Luna/Sistema-Gerenciamento-Funcionarios/blob/main/Gerenciamento_de_Funcion%C3%A1rios.py)).
+Aqui está uma visão geral do código principal. Para ver o código completo, acesse o arquivo [main.py](https://github.com/Vitor-Luna/Sistema-Gerenciamento-Funcionarios/blob/main/Gerenciamento_de_Funcion%C3%A1rios.py).
 
 ```python
 def cadastrar_funcionario(id):
